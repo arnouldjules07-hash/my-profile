@@ -1,0 +1,27 @@
+body {
+  background-color: #f5f5f5;
+  font-family: Arial;
+  text-align: center;
+}
+
+.container {
+  margin-top: 50px;
+}
+
+h1 {
+  color: black;
+}
+
+p {
+  color: #555;
+}
+
+.btn {
+  display: inline-block;
+  margin-top: 20px;
+  padding: 10px 20px;
+  background-color: black;
+  color: white;
+  text-decoration: none;
+  border-radius: 5px;
+}
